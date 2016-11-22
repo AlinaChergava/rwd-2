@@ -44,7 +44,7 @@ body{
   .tablet{
     display: block;
     color: #EE3A8C;
-    font-size: 100px;
+    font-size: 70px;
   }
   .large{
     display: none;
@@ -62,7 +62,7 @@ body{
   .desktop{
     display: block;
     color: #A9A9A9;
-    font-size: 100px;
+    font-size: 80px;
   }
   .large{
     display: none;
@@ -79,7 +79,7 @@ body{
   .large{
     display: block;
     color: #EEA2AD;
-    font-size: 120px;
+    font-size: 100px;
   }
   .device{
     display: none;
